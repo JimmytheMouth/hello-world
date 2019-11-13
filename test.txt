@@ -1,3 +1,7 @@
 fun t(){
 	val s = "s"
 }
+
+fun f1(){
+	val s = "This is f1"
+}
