@@ -11,6 +11,7 @@ fun f3(){
 }
 
 //locl-branch4-test10
+//locl-branch4-test12
 //locl-master-test4
 //locl-master-test5
 //locl-master-test5
